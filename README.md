@@ -5,4 +5,4 @@ A backend Express.js API that allows a user to:
 * add a movie nomination
 * remove a nomination
 
-Nominations are stored in a MongoDB Atlas cluster
+Nominations are stored in a MongoDB Atlas database
